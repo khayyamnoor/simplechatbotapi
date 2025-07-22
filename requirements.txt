@@ -4,4 +4,4 @@ pandas
 datasets
 flask
 flask-cors
-
+gunicorn
